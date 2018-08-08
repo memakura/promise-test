@@ -1,0 +1,10 @@
+{
+  "name": "promise-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts" : {
+    "start" : "node promise-test.js",
+    "use_n" : "node use_n.js"
+  },
+  "license": "MIT"
+}
